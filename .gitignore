@@ -1,0 +1,20 @@
+# Environment
+.env
+
+# Raw datasets (large, download from Kaggle — see README)
+Dataset Raw/
+steam.csv/
+steam.csv.zip
+steam_reviews.csv/
+steam_reviews.csv.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Personal portfolio application materials (not part of the group repo)
+PORTFOLIO_DRAFT.md
+portfolio/
